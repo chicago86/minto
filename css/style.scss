@@ -43,7 +43,7 @@ a {
 .ba-header-bar {
   display: flex;
   justify-content: space-between;
-  padding: 40px 0 30px;
+  padding: 40px 20px 30px;
 }
 .ba-menu {
   display: flex;
@@ -128,7 +128,7 @@ a {
   border-bottom: 2px solid $primery-color;
 }
 .ba-gallery {
-  margin: 30px 0;
+  margin: 30px 15px;
 }
 .ba-gallery-heading {
   font-family: $body-font-family;
@@ -148,5 +148,4 @@ a {
 	display: flex;
 	align-items: center;
 	justify-content: flex-end;
-	margin-left: -20px;
 }

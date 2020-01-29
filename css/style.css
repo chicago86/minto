@@ -611,7 +611,7 @@ a {
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  padding: 40px 0 30px; }
+  padding: 40px 20px 30px; }
 
 .ba-menu {
   display: -webkit-box;
@@ -701,7 +701,7 @@ a {
   border-bottom: 2px solid #82699d; }
 
 .ba-gallery {
-  margin: 30px 0; }
+  margin: 30px 15px; }
 
 .ba-gallery-heading {
   font-family: "Open Sans", sans-serif;
@@ -726,7 +726,6 @@ a {
   align-items: center;
   -webkit-box-pack: end;
   -ms-flex-pack: end;
-  justify-content: flex-end;
-  margin-left: -20px; }
+  justify-content: flex-end; }
 
 /*# sourceMappingURL=style.css.map */
